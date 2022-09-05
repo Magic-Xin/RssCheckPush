@@ -1,6 +1,6 @@
 # RssCheckPush
 
-这是一个基于 `Github Workflow` 的 Youtube RSS 订阅内容筛选并通知的自动化脚本
+这是一个基于 `Github Actions` 的 Youtube RSS 订阅内容筛选并通知的自动化脚本
 
 可实现自定义订阅链接以及关键词通知内容，以及通过 [Push Deer](http://www.pushdeer.com/) 实现的通知推送
 
